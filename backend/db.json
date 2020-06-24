@@ -16,14 +16,9 @@
       "price": "7520.89"
     },
     {
-      "name": "Lápis Preto Básico",
+      "name": "Lápis Preto Basico",
       "price": "1.50",
       "id": 4
-    },
-    {
-      "name": "",
-      "price": null,
-      "id": 5
     }
   ]
 }
