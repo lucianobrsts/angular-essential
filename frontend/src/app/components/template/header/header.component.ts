@@ -22,7 +22,7 @@ export class HeaderComponent implements OnInit {
   }
 
   get routeUrl(): string {
-    return this.HeaderService.headerData.routerUrl
+    return this.HeaderService.headerData.routeUrl
   }
 
 }
