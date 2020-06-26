@@ -1,3 +1,5 @@
+import { ClientService } from './../../components/client/client.service';
+import { Client } from './../../components/client/client.model';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -10,6 +12,7 @@ export class ClientCrudComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    
   }
 
 }
