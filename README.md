@@ -1,8 +1,8 @@
 # Projeto CRUD Angular 9
 
-Projeto Angular versão 9, criado com o intuito de aprofundar conhecimentos na tecnologia. Através de um CRUD foram implementadas tecnicas para acesso as informações realizando o Create, Read, Update e Delete usando como DB um arquivo Json.
+Projeto Angular versão 9, criado com o intuito de aprofundar conhecimentos na tecnologia. Através de um CRUD foram implementadas técnicas para acesso e atualização das informações usando como DB um arquivo Json.
 
-## Tecnologias Usadas:
+> ## Tecnologias Usadas:
 - **01. Windows**
 - **02. Visual Studio Code**
 - **03. Postman**
@@ -17,7 +17,10 @@ Projeto Angular versão 9, criado com o intuito de aprofundar conhecimentos na t
 
 > ### BACKEND:
 - **01. Json Server**
-- **. Usado para ler o arquivo Json e criar uma API baseada nesse Json.**
+- **Usado para ler o arquivo Json e criar uma API baseada nesse Json.**
 
 > ### FRONTEND:
-- **01. BlaBlaBla**
+- **01. Angular 9**
+- **Acesso ao backend**
+- **Uso de Navegação, Observables, services, diretivas, pipes, etc**
+
