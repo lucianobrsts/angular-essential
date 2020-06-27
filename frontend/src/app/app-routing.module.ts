@@ -1,4 +1,3 @@
-import { ClientCrudComponent } from './views/client-crud/client-crud.component';
 import { NgModule } from "@angular/core";
 import { Routes, RouterModule } from "@angular/router";
 
@@ -28,10 +27,6 @@ const routes: Routes = [
   {
     path: "products/delete/:id",
     component: ProductDeleteComponent
-  },
-  {
-    path: "clients",
-    component: ClientCrudComponent
   }
 ];
 
